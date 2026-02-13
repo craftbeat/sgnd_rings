@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U? Old Footprint=DIP-16 New Footprint=SOP16
+Add component: Footprint Not Found SOT-23_M
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Class Member: Failed to add class member : Component D3 LM4040-10

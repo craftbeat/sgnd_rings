@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=sgnd_rings.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=sgnd_rings.SchDoc|Designator=CV|SchDesignator=CV|FileName=cv_input.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=cv_input.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sgnd_rings.SchDoc|Designator=Potmeters|SchDesignator=Potmeters|FileName=potmeters.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=potmeters.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=sgnd_rings.SchDoc|FileName=audio.SchDoc|SheetNumber=4
